@@ -166,7 +166,7 @@ newDeg = null;
     winner.classList.add('won');
     let wItem = winner.children[0].innerText;
     if(wItem.length<6)wItem = 'a ' + wItem;
-    infoSpin.innerText=`Brava patata, riceverai un bacino qui: ${wItem}!`
+    infoSpin.innerText=`Riceverai un bacino qui: ${wItem}!`
     // spinBtn.addEventListener('click',spinWheel)
   },5000)
 }
