@@ -58,7 +58,7 @@
 .heartOne {
   position: absolute;
   left: 100px;
-  top: 250px;
+  top: 247px;
   animation: up 4s linear forwards 1s;
 }
 
@@ -178,7 +178,7 @@
   width: 380px;
   left: 0px;
   z-index: 3;
-  top: 280px;
+  top: 270px;
   animation: up 1s ease forwards;
   transition: 0.2s;
 }
