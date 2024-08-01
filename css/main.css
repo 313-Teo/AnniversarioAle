@@ -52,7 +52,7 @@ html {
 }
 
 body {
-  font-family: "Crimson Text", serif;
+  font-family: "Pacifico", cursive;
   letter-spacing: 0.2rem;
   line-height: 1.9;
   color: var(--color-quinary);
@@ -1046,9 +1046,8 @@ a {
 }
 .spin-info {
   margin-top: 4rem;
-  color: var(--color-tertiary);
-  text-shadow: 0.1rem 0.1rem var(--color-quinary);
-  font-size: calc(0.8rem + 0.6vw);
+  color: varvar(--color-quinary);
+  font-size: calc(1.5rem + 0.6vw);
 }
 .spin-info::-moz-selection {
   background-color: var(--color-tertiary-m);
